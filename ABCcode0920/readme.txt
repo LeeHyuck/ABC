@@ -14,7 +14,7 @@ matplotlib (python3.7 -m pip install matplotlib)
 progress (python3.7 -m pip install progress)
 -----------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------------------
-
+---------------------------------------------------------
 if you want to run ABCremix.py with 0th gpu , ratio of labeled data as 20%, 
 N1(number of data points belonging to first class = num_max) as 1000 , ratio of imbalance as 100, 500 epoch with each epoch 500 iteration, manualseed as 0, dataset as CIFAR-10, imbalance type with long tailed imbalance:
 
